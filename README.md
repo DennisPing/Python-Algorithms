@@ -9,7 +9,7 @@ A bunch of Python algorithms for learning and practice
 [x] Breadth First Search  
 [x] Depth First Search  
 [x] A-Star Algorithm with Weighted Graph  
-[ ] Merge Sort  
-[ ] Merge Sort with Object  
+[x] Merge Sort  
+[x] Merge Sort with Objects  
 [ ] Fibonacci Sequence  
 [ ] Sudoku Algorithm with Backtracking
