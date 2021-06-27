@@ -11,5 +11,5 @@ A bunch of Python algorithms for learning and practice
 [x] A-Star Algorithm with Weighted Graph  
 [x] Merge Sort  
 [x] Merge Sort with Objects  
-[ ] Fibonacci Sequence  
+[x] Fibonacci Sequence  
 [ ] Sudoku Algorithm with Backtracking
